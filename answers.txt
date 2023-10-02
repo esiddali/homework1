@@ -1,3 +1,7 @@
 What is the difference between a merge and a rebase?
 
 A rebase applies divergent commits on top of the main branch. In doing so, it rewrites your development history. A merge however, creates a new commit called a merge commit containing content from the divergent branch and the main branch. A merge does not overwrite your development history the way a rebase does.
+
+What is a remote repository?
+
+A remote repository is a copy of your codebase somewhere other than your local computer.
